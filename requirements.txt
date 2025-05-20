@@ -1,0 +1,13 @@
+scikit-learn
+pandas
+numpy
+matplotlib 
+seaborn
+pymodbus
+pydantic
+fastapi
+uvicorn
+typing
+gradio
+requests
+pyserial
